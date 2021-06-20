@@ -1,0 +1,70 @@
+/*body */
+body{
+background-image:url("../images/background-2633962_960_720.jpg");
+}
+p{
+}
+.IMG_1{
+display : block;
+margin-left : auto;
+margin-right : auto;
+
+}
+.HED{
+text-align:center;
+font-family : Bahnschrift SemiBold SemiConden,serif,Times;
+}
+hr{
+
+}
+/*Navigation Bar*/
+.navbar{
+background-color:black;
+margin:1;
+padding:0;
+overflow:hidden;
+
+}
+.navbar li  {
+float : left;
+list-style-type: none;
+
+}
+
+.navbar a  {
+display:block;
+padding: 8px;
+background-color: black;
+color: white;
+text-decoration:none;
+}
+.navbar a:hover  {
+color:black;
+background-color:white; 
+}
+/*Table*/
+.pData{
+background-color:white;
+
+}
+div.A {
+text-align:center;
+}
+.footer{
+text-align:center;
+}
+/*Highlight*/
+font{
+color:red;
+}
+table{
+border-collapse: collapse;
+}
+/*JS Imagers and Paragraphs*/
+.image1{
+display:block;
+width:500px;
+height:500px;
+margin-left: auto;
+margin-right:auto;
+}
